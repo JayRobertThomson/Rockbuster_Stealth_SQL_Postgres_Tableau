@@ -1,9 +1,6 @@
-# Rockbuster_Stealth_SQL_Postgres_Tableau
-**Introduction**
+# Descriptive Statistics for the Films and Customer Tables 
 
-Descriptive Statistics for the Films and Customer Tables 
-
-* Films 
+**Films** 
 
 SELECT COUNT(film_id) AS count_film_id,
 	   MIN (rental_duration) AS min_rental,
