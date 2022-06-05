@@ -47,7 +47,7 @@
 ![image](https://user-images.githubusercontent.com/106902397/172074009-122cecf5-4e56-420f-902d-600681475a89.png)
 
 
-## Movies longer > 120mins
+## Movies > 120mins
 
           SELECT film_id,
                title,
