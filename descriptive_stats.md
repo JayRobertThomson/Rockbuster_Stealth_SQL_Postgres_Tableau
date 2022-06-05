@@ -1,6 +1,6 @@
-#Descriptive Statistics for the Films and Customer Tables 
+# Descriptive Statistics for the Films and Customer Tables 
 
-##Films 
+## Films 
 
 SELECT COUNT(film_id) AS count_film_id,
 	   MIN (rental_duration) AS min_rental,
@@ -27,8 +27,10 @@ SELECT COUNT(film_id) AS count_film_id,
 	   
 FROM film;
 
+![Table_1](https://user-images.githubusercontent.com/106902397/172048883-f78c4a43-c228-4c35-8189-291b0dade1c5.png)
 
-##Customers 
+
+## Customers 
 
 SELECT COUNT(customer_id) AS count_cust,
 	   MIN(customer_id) AS min_cust,
