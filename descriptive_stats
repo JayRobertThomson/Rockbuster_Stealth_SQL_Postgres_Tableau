@@ -28,7 +28,19 @@ SELECT COUNT(film_id) AS count_film_id,
 FROM film;
 
 
-* Customers 
+##Customers 
 
+SELECT COUNT(customer_id) AS count_cust,
+	   MIN(customer_id) AS min_cust,
+	   MAX(customer_id) AS max_cust,
+	   AVG(customer_id) AS avg_cust,
+	   
+	   COUNT(store_id) AS count_store,
+	   
+	   COUNT(first_name) AS count_first_name,
+	   COUNT(last_name) AS count_last_name,
+	   COUNT(email) AS count_email
+	   
+FROM customer;
 
 
