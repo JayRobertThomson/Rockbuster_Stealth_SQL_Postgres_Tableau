@@ -45,4 +45,7 @@ SELECT COUNT(customer_id) AS count_cust,
 	   
 FROM customer;
 
+![image](https://user-images.githubusercontent.com/106902397/172049027-0cd0b357-444f-4614-a9da-15a2362ed420.png)
+
+
 
