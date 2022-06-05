@@ -24,21 +24,21 @@ SELECT COUNT(film_id) AS count_film_id,
 FROM film;
 
 
-| COMMAND           | DESCRIPTION                                                                                               |
-|---------          |------------                                                                                               |
-|count_film_id      |	1000                                                                                                      |
+| COMMAND               | DESCRIPTION                                                                                               |
+|-----------------------|-----------------------------------------------------------------------------------------------------------|
+|count_film_id          |   1000                                                                                                    |
 |min_rental	        |   3                                                                                                       |
 |max_rental	        |   7                                                                                                       |
-|avg_rental	        | 4.985                                                                                                     |
-|min_rate	          |  0.99                                                                                                     |
-|max_rate	          |  4.99                                                                                                     |
-|avg_rate	          |  2.98                                                                                                     |
+|avg_rental	        |   4.985                                                                                                   |
+|min_rate	        |   0.99                                                                                                    |
+|max_rate	        |   4.99                                                                                                    |
+|avg_rate	        |   2.98                                                                                                    |
 |min_length	        |   46                                                                                                      |
-|max_length	        |  185                                                                                                      |
-|avg_length	        |115.272                                                                                                    |
-|min_cost	          |  9.99                                                                                                     |
-|max_cost	          | 29.99                                                                                                     |
-|avg_cost	          |19.984                                                                                                     |
-|modal_rating	      | PG-13                                                                                                     |
+|max_length	        |   185                                                                                                     |
+|avg_length	        |   115.272                                                                                                 |
+|min_cost	        |   9.99                                                                                                    |
+|max_cost	        |   29.99                                                                                                   |
+|avg_cost	        |   19.984                                                                                                  |
+|modal_rating	        | PG-13                                                                                                     |
 |modal_description	|A Action-Packed Character Study of a Astronaut And a Explorer who must Reach a Monkey in A MySQL Convention|
-|modal_title	      | Academy Dinosaur                                                                                          |       
+|modal_title	        | Academy Dinosaur                                                                                          |       
