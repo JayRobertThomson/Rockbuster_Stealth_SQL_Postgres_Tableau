@@ -1,4 +1,4 @@
-# Rockbuster_Stealth_SQL_Postgres_Tableau
+# Rockbuster_Stealth_SQL_Postgres
 **Introduction**
 
     Rockbuster Stealth LLC is a movie rental company that used to have stores around the
