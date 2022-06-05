@@ -20,17 +20,7 @@
 		INNER JOIN address C ON B.address_id = C.address_id
 		INNER JOIN city D ON C.city_id = D.city_id
 		INNER JOIN country E ON D.country_id = D.country_id
-		WHERE E.country IN ('India', 
-				    'China', 
-				    'United States', 
-				    'Japan', 
-				    'Mexico', 
-			            'Brazil', 
-			            'Russina Federation', 
-				    'Philippines', 
-				    'Turkey', 
-				    'Indonesia')
-		AND D.city IN ('Aurora', 
+		WHERE           D.city IN ('Aurora', 
 					   'Atlixco', 
 					   'Xintai', 
 					   'Adoni', 
