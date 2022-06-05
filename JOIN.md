@@ -69,7 +69,7 @@
 ![image](https://user-images.githubusercontent.com/106902397/172072789-66157052-bff6-4f78-840a-c61dcf62344f.png)
 
 
-## Top 10 cities from the top 10 countries
+## Top 10 cities from the Top 10 countries
 
         SELECT D.country,
              C.city,
