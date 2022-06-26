@@ -23,9 +23,11 @@
    ● The data set that contains information about Rockbuster’s film inventory, customers, and 
     payments, among other things. 
     
-   ● Data dictionary build: [DATA Dictionary.pptx](https://github.com/JayRThomson/Rockbuster_Stealth_LLC_Jay/files/8818923/DATA.Dictionary.pptx)
-   
-   ● Data Presentation Powerpoint and Tableau for images / graphs: [Rockbuster Stealth LLC.pptx](https://github.com/JayRThomson/Rockbuster_Stealth_LLC_Jay/files/8818925/Rockbuster.Stealth.LLC.pptx)
+   ● Data dictionary build: ![image ERD](https://user-images.githubusercontent.com/106902397/175832219-2489c016-1655-4319-aa0d-65e65976fce9.png)
+   [DATA Dictionary.pptx](https://github.com/JayRobertThomson/Rockbuster_Stealth_SQL_Postgres_Tableau/files/8987403/DATA.Dictionary.pptx)
+
+   ● Data Presentation Powerpoint and Tableau for images / graphs:
+[Rockbuster Stealth LLC.pptx](https://github.com/JayRobertThomson/Rockbuster_Stealth_SQL_Postgres_Tableau/files/8987404/Rockbuster.Stealth.LLC.pptx)
 
 **Data Dictionary**
 
